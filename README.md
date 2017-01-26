@@ -6,5 +6,5 @@ This project contains all code I wrote for Full Stack Web Developer Nanodegree o
     + There are three programs:
     + media.py: Has a class for Movie
     + entertainment_center.py: Create movies and generate the website
-    + fresh_tomatoes.py: Provide functions to generate a website
+    + fresh_tomatoes.py: Provide functions to generate a website. It was download from the course.
     + Usage: run entertainment_center.py, it will generate a html file, then open it. You can add your own movie into the file and re-run the program to generate a new html file.
