@@ -1,6 +1,9 @@
 import media
 import fresh_tomatoes
 
+'''Fllows are scripts to produce a movies website.'''
+
+# The Shawshank Redemption
 the_shawshank_redemption = media.Movie("The Shawshank Redemption",
     "A prominent banker unjustly convicted of murder spends many years in \
     the Shawshank prison. He is befriended by a convict who knows the ropes \
@@ -9,6 +12,7 @@ the_shawshank_redemption = media.Movie("The Shawshank Redemption",
     "https://i.ytimg.com/vi_webp/RLw6hBFJ8bk/movieposter.webp",
     "https://youtu.be/K_tLp7T6U1c")
 
+# Star Wars: The Force Awakens
 star_wars_the_force_awakens = media.Movie("Star Wars: The Force Awakens",
     "Visionary director J.J. Abrams brings to life the motion picture event \
     of a generation. As Kylo Ren and the sinister First Order rise from the \
@@ -19,6 +23,7 @@ star_wars_the_force_awakens = media.Movie("Star Wars: The Force Awakens",
     "https://i.ytimg.com/vi_webp/-eYxeRJCYMY/movieposter.webp",
     "https://youtu.be/UitsQDWSlUg")
 
+# The Secret Lift of Pets
 the_secret_lift_of_pets = media.Movie("The Secret Life of Pets",
     "Find out what your pets do when you're not at home in this animated \
     comedy featuring the voice talents of Louis C.K., Eric Stonestreet, and \
@@ -26,6 +31,7 @@ the_secret_lift_of_pets = media.Movie("The Secret Life of Pets",
     "https://i.ytimg.com/vi_webp/HdAAeM9jKpM/movieposter.webp",
     "https://youtu.be/Ag-hLxUGn-M")
 
+# Gandhi
 gandhi = media.Movie("Gandhi",
     "Sir Ben Kingsley stars as Mohandas Gandhi in Lord Richard Attenborough's \
     riveting biography of the man who rose from simple lawyer to worldwide \
